@@ -7,7 +7,8 @@ the developed must have the excel sheet be ammended and recompiled with the code
 
 INSTALL/RUN:
 >To run the application simply double click the file DVDSearchApp.jar
->This file may be moved to any folder of your choice.
+>This file may be moved to any folder of your choice, so long as the lib folder is moved with it.
+>ensure ur lib folder is beside the JAR at all times.
 >This file may be pinned to your taskbar.
 >You can create a shortcut for your desktop by right clicking 
 and selecting"create shortcut" and you can drag that new shortcut
